@@ -641,8 +641,8 @@ li em {
   padding: 0 5px;
 }
 img {
-  max-width: 70%;
-  max-height: 70%;
+  max-width: 75%;
+  max-height: 75%;
 }
 .coverflow section.bespoke-before {
   -webkit-transform: translateZ(-350px) translateX(-400px) rotateY(45deg);
